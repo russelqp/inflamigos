@@ -12,7 +12,11 @@
 			 		<p><i><strong>Estos son nuestros inflables:</strong></i></p>
 			 		<div class="menu_inflables">
 <<<<<<< HEAD
+<<<<<<< HEAD
 			 			<p>La renta es por día, dentro de un horario de 8 de la mañana y máximo 12 de la noche.</p>
+=======
+			 			<p>La renta es por día, dentro de un horario de 7 de la mañana y máximo 12 de la noche.</p>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 			 			<p>La renta es por día, dentro de un horario de 7 de la mañana y máximo 12 de la noche.</p>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -21,7 +25,11 @@
 			 				<img src="http://www.inflamigos.com.mx/inflables/angry-box.jpg" alt="castillo_aventura_middle" />
 			 				<h4>Angry Box<br />(3 x 4)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			 				<figcaption>Con un estilo moderno, y recomendado para los más peques.</figcaption>
+=======
+			 				<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 			 				<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -32,7 +40,11 @@
 			 				<img src="http://www.inflamigos.com.mx/inflables/caventura_middle.jpg" alt="castillo_aventura_middle" />
 			 				<h4>Castillo Aventura <br />(6 x 3)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			 				<figcaption>El clásico y popular, para toda ocasión.</figcaption>
+=======
+			 				<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 			 				<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -43,7 +55,11 @@
 				 			<img src="http://www.inflamigos.com.mx/inflables/cprincess_middle.jpg" alt="castillo_princess_middle" />
 				 			<h4>Castillo Princess<br />(4 x 3)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				 			<figcaption>Para consentir a las princesitas del hogar.</figcaption>
+=======
+				 			<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 				 			<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -54,7 +70,11 @@
 						 	<img src="http://www.inflamigos.com.mx/inflables/escaladrilo-middle.jpg" alt="Escaladrilo-middle"/>
 						 	<h4>Escaladrilo<br />(4 x 2.5)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 						 	<figcaption>Especial para la alberca y espacios pequeños.</figcaption>
+=======
+						 	<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 						 	<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -65,7 +85,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/bob-esponja-middle.jpg" alt="Bob-Esponja-Resbaladilla-middle"/>
 							<h4>Bob Esponja<br />(7 x 4)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<figcaption>Atractivos y alegres colores que daran vida a tus fiestas.</figcaption>
+=======
+							<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -76,7 +100,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/ucubo_middle.jpg" alt="ultra_cubo_middle" />
 							<h4>Ultra Cubo<br />(7 x 5)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<figcaption>El gran interactivo inflamigo, acompañado con rótulos de Yoshi y Mario.</figcaption>
+=======
+							<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -87,7 +115,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/aslide_middle.jpg" alt="arco_slide_middle" /> 
 							<h4>Arco Slide<br />(7 x 5) </h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<figcaption>Colócalo junto a tu alberca y prepárense para la diversión.</figcaption>
+=======
+							<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -98,7 +130,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/space-lab-middle.jpg" alt="Space-Lab-middle"/> 
 							 <h4>Space Lab<br />6 x 6) </h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							 <figcaption>El laboratorio espacial invadido por aliens.</figcaption>
+=======
+							 <figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							 <figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -111,7 +147,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/aqualand-middle.jpg" alt="Aqualand-middle" /> 
 							<h4>Aqualand<br />(4.5 x 5)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<figcaption>Un inflable muy completo, resbaladilla, área para brincar y chapoteadero.</figcaption>
+=======
+							<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
@@ -122,7 +162,11 @@
 							<img src="http://www.inflamigos.com.mx/inflables/splash-pool-middle.jpg" alt="Splash-Pool_middle"/> 
 							<h4>Splash Pool<br />(9 x 5)</h4>
 <<<<<<< HEAD
+<<<<<<< HEAD
 							<figcaption>El inflamigo extremo, doble tobogán y un refrescante chapoteadero.</figcaption>
+=======
+							<figcaption>Descripción del inflable</figcaption>
+>>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1
 =======
 							<figcaption>Descripción del inflable</figcaption>
 >>>>>>> b9521ee7ffc2d4f23b627f85215166325f168ab1

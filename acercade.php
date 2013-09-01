@@ -12,7 +12,7 @@
     <h3>Acerca de (about)</h3>
     <p><i><strong>Playa del Carmen, Quintana Roo, Mexico</strong></i></p>
     <br />
-    <div id="baner-welcome"><img src="imagenes/about_.jpg" title="acerca de brincolines inflamigos"/></div>
+    <div id="baner-welcome"><img src="http://www.inflamigos.com.mx/imagenes/about_.jpg" title="acerca de brincolines inflamigos"/></div>
     <br />
     <p><strong>Inflamigos</strong> es una empresa que nace en el 2008, para satisfacer las nececidades tanto de familias como de empresas, que requieren de entretenimiento sano y recreativo para sus ni&ntilde;os en sus eventos.  </p>
      <h4>Brincolines inflables &quot;<strong>Inflamigos&quot;</strong> en <strong>Playa del Carmen</strong> y toda la <strong>Riviera Maya</strong>. </h4>

@@ -16,7 +16,7 @@
     <h4>&iquest;D&oacute;nde localizarnos?</h4>
     <p>Actualmente no contamos con oficinas,  pero si necesita una direcci&oacute;n con gusto se le proporcionamos una, que es domicilio particular no comercial.</p>
     <h4>&iquest;C&oacute;mo contactarnos? </h4>
-    <p>Marcando al n&uacute;mero de celular  9841416137, &oacute; por nuestro <a href="contacto.php" title="formulario de contacto">formulario de contacto</a>, v&iacute;a e-mail buzon@inflamigos.com.mx. Solicite una cita y nosotros lo visitamos a su domicilio u oficina.</p>
+    <p>Marcando al n&uacute;mero de celular  9841416137, &oacute; por nuestro <a href="http://www.inflamigos.com.mx/contacto.php" title="formulario de contacto">formulario de contacto</a>, v&iacute;a e-mail buzon@inflamigos.com.mx. Solicite una cita y nosotros lo visitamos a su domicilio u oficina.</p>
     <h4>&iquest;Que incluye la renta del inflable?</h4>
     <p>El equipo que consta de: brincolin, extensi&oacute;n/es, motor de 1hp.</p>
     <h4>&iquest;Forma de pago?</h4>
@@ -64,7 +64,7 @@
       <br />
       -Porque t&uacute; y tus amigos disfrutar&aacute;n m&aacute;s su evento, mientras los peque&ntilde;os se encuentran entretenidos y con la imaginaci&oacute;n volando en el brincolin. =D!</p>
       <div class="lista">
-      <div class="img-list"><img src="imagenes/punching-bag.png" title="alegria" /></div>
+      <div class="img-list"><img src="http://www.inflamigos.com.mx/imagenes/punching-bag.png" title="alegria" /></div>
       <ol>
     <li>&ldquo;Es responsabilidad del cliente el cuidado del equipo as&iacute; como su correcta utilizaci&oacute;n&rdquo;.</li>
     <li>&quot;Brincolines Inflamigos no se hace responsable de la adicci&oacute;n hacia los brincolines que pueda generarse en los ni&ntilde;os =)&quot;.</li>

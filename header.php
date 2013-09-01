@@ -65,7 +65,7 @@ map.addMarker({
 <!--<div class="ayudaonline"><a href="#">Ayuda en Linea</a></div>-->
 <header>
        <div id="logo">
-        <a href="index.php"><img src="imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
+        <a href="http://www.inflamigos.com.mx/index.php"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
        </div>
        <div id="info"><h1>Inflamigos</h1>
          <h2>Renta de brincolines inflables</h2>
@@ -82,11 +82,11 @@ map.addMarker({
             <?php $btn_activo;?>
               <nav>
                 <ul>
-                    <li id="bk-home" <?php if ($btn_activo == "index") {echo 'class="btn_activo"';} ?> ><a href="index.php" title="ir al inicio ;)" >Inicio</a></li>
-                    <li id="bk-brincolines" <?php if ($btn_activo == "brincolines") {echo 'class="btn_activo"';} ?>><a href="brincolines.php" title="ver los brincolines :D" >Brincolines</a></li>
-                    <li id="bk-acercade" <?php if ($btn_activo == "acercade") {echo 'class="btn_activo"';} ?>><a href="acercade.php" title="ver quienes somos ?">Acercade</a></li>
-                    <li id="bk-faq" <?php if ($btn_activo == "faq") {echo 'class="btn_activo"';} ?>><a href="faq.php" title="ver las preguntas frecuentes ?">Faq</a></li>
-                    <li id="bk-contacto" <?php if ($btn_activo == "contacto") {echo 'class="btn_activo"';} ?>><a href="contacto.php" title="contactanos =)">Contacto</a></li>
+                    <li id="bk-home" <?php if ($btn_activo == "index") {echo 'class="btn_activo"';} ?> ><a href="http://www.inflamigos.com.mx/index.php" title="ir al inicio ;)" >Inicio</a></li>
+                    <li id="bk-brincolines" <?php if ($btn_activo == "brincolines") {echo 'class="btn_activo"';} ?>><a href="http://www.inflamigos.com.mx/brincolines.php" title="ver los brincolines :D" >Brincolines</a></li>
+                    <li id="bk-acercade" <?php if ($btn_activo == "acercade") {echo 'class="btn_activo"';} ?>><a href="http://www.inflamigos.com.mx/acercade.php" title="ver quienes somos ?">Acercade</a></li>
+                    <li id="bk-faq" <?php if ($btn_activo == "faq") {echo 'class="btn_activo"';} ?>><a href="http://www.inflamigos.com.mx/faq.php" title="ver las preguntas frecuentes ?">Faq</a></li>
+                    <li id="bk-contacto" <?php if ($btn_activo == "contacto") {echo 'class="btn_activo"';} ?>><a href="http://www.inflamigos.com.mx/contacto.php" title="contactanos =)">Contacto</a></li>
                     <li id="bk-blog" <?php if ($btn_activo == "blog") {echo 'class="btn_activo"';} ?>><a href="http://www.inflamigos.com.mx/blog" title="Blog" >Blog</a></li>
                       <!--
                       <li><a href="armatuevento.php" title="Todo para tus eventos" class="btn_menu"><img src="#" alt="ico_tpte" /><br />AtuE</a></li> -->

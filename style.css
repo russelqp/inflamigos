@@ -49,6 +49,18 @@ table{border-collapse:collapse;border-spacing:0}
 .icon-skype:before{content:"\e007"}
 .icon-mail:before{content:"\e008"}
 .icon-google-plus:before{content:"\e009"}
+.menu_inflables{width:100%;margin:0 auto;text-align:center}
+.menu_inflables h3{font-size:1.4em;color:#fff;width:100%;display:block;background-color:#ff4900;padding:5px;text-align:center;border-radius:0}
+.menu_inflables h4{color:#333;font-size:1em;text-align:center}
+.menu_inflables h5{font-size:.8em;text-align:center;color:#666}
+.bnt_ir{width:90%;display:block;background-color:#ddd;margin:2px auto;border-radius:2px}
+.btn_ir a:link{color:#ccc}
+.bnt_ir:hover{background-color:#6ff}
+figure{border:2px solid #eee;background-color:#fff;color:#333;padding:5px;margin:5px;width:28%;display:inline-block;vertical-align:top;transition:all 1s ease;border-radius:5px;text-align:center;box-shadow:0 0 2px 2px rgba(46,49,50,0.3)}
+figure a{display:block;border-radius:3px;background-color:#ff4900;color:#fff}
+figure a:hover{background-color:#fb0;color:#fff}
+figure img{width:100%;padding:0;margin:0;border-radius:5px}
+figure:hover{transform:scale(1.08)}
 @charset "utf-8";
 *{margin:0;padding:0}
 body{background-color:#cef;background-image:url("imagenes/bg.png");background-repeat:repeat-x;color:#fff;font-family:'Noto Sans',sans-serif;font-size:16px;margin:0 auto;padding:0}
@@ -119,7 +131,7 @@ section{background-color:#ff9200;border-bottom-left-radius:10px;border-bottom-ri
 .lista ol li{color:#f80012}
 .ubicacion{background-color:#f90;margin:0 auto;padding:0;width:948px}
 .ubicacion p{margin:auto;text-align:left}
-.uvideo{height:80%;margin:10px auto;padding-top:10px;text-align:center;width:80%}
+.uvideo{margin:10px auto;padding-top:10px;text-align:center;width:80%}
 .uvideo a link{color:#03c}
 .banner{width:650px;margin:0 auto}
 #social-holder{width:100%;margin:5px auto;text-align:center;padding:2px 0;background-color:#fb0;border-radius:5px}
@@ -142,17 +154,6 @@ margin 0auto,.submenu ul{margin:0 auto;width:80%;padding:0}
 .credits{margin:0 auto;color:#fff;text-align:center}
 .credits alink{text-decoration:none;padding:0;margin-top:0}
 .credits p{margin:0 auto;padding:10px 0;text-align:center;width:80%}
-.menu_inflables{width:90%;margin:0 auto}
-.menu_inflables h5{padding:0;font-size:1em;font-weight:100}
-.menu_inflables a{color:#fff;text-align:center}
-.menu_inflables a:hover{color:#ff6}
-.menu_inflables ul{padding:0;margin:0 auto;text-align:center}
-.menu_inflables ul li{width:30%;display:inline-block;vertical-align:top;transition:all 1s ease;border-radius:5px;list-style:none;margin:5px;padding:5px;box-shadow:3px 3px 2px rgba(46,49,50,0.3)}
-.menu_inflables img{width:100%}
-.menu_inflables ul li:hover{transform:scale(1.08)}
-.fondoli-azul{border1px:solid #03c;background-color:#07f}
-.fondoli-naranja{border:1px solid #c00;background-color:#ff4900}
-.fondoli-verde{border1px:solid #393;background-color:#9c0}
 .lista-imagenes{display:inline-block;vertical-align:top;width:60%;padding:2%;text-align:center;margin:0 auto}
 .lista-imagenes h4{text-align:left;margin:10px auto}
 .lista-imagenes ul{padding:0;margin:0;text-align:left}
@@ -175,19 +176,21 @@ margin 0auto,.submenu ul{margin:0 auto;width:80%;padding:0}
 .clearfloat{clear:both}
 @media screen and (max-width:945px){nav ul li{width:15%}
 }@media screen and (max-width:800px){.p2,.p3{display:none}
+.menu_inflables figure{width:38%}
 }@media screen and (max-width:650px){header nav ul li{width:32%}
 h3{text-align:left}
 .lista-imagenes,.datos{width:100%;display:block;margin:auto}
 article,aside{width:100%;display:block}
 aside{margin-top:10px;text-align:center}
 .submenu{display:none}
+}@media screen and (max-width:600px){.menu_inflables figure{width:40%}
 }@media screen and (max-width:500px){header nav ul li{width:45%}
 header{text-align:center;margin:0 auto}
 header #inflabletop{display:none}
 header #logo{display:block;width:25%;text-align:center;margin:0 auto}
 #social-holder{width:auto;margin:auto;text-align:center}
 .p1{display:none}
-.menu_inflables ul li{width:45%}
+.menu_inflables figure{width:40%}
 .lista-imagenes ul li{width:45%}
 }@media screen and (max-width:450px){article .lista{display:none}
 .validators{display:none}
@@ -196,6 +199,6 @@ header #logo{display:block;width:25%;text-align:center;margin:0 auto}
 header nav ul li a{text-align:center}
 p{text-align:center}
 li{text-align:left}
-.menu_inflables ul li{width:90%}
+.menu_inflables figure{width:90%}
 .lista-imagenes ul li{width:90%}
 }

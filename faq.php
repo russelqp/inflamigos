@@ -64,7 +64,7 @@
       <br />
       -Porque t&uacute; y tus amigos disfrutar&aacute;n m&aacute;s su evento, mientras los peque&ntilde;os se encuentran entretenidos y con la imaginaci&oacute;n volando en el brincolin. =D!</p>
       <div class="lista">
-      <div class="img-list"><img src="http://www.inflamigos.com.mx/imagenes/punching-bag.png" title="alegria" /></div>
+      <img src="http://www.inflamigos.com.mx/imagenes/punching-bag.png" title="alegria" class="img-list" />
       <ol>
     <li>&ldquo;Es responsabilidad del cliente el cuidado del equipo as&iacute; como su correcta utilizaci&oacute;n&rdquo;.</li>
     <li>&quot;Brincolines Inflamigos no se hace responsable de la adicci&oacute;n hacia los brincolines que pueda generarse en los ni&ntilde;os =)&quot;.</li>

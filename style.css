@@ -123,12 +123,12 @@ section{background-color:#ff9200;border-bottom-left-radius:10px;border-bottom-ri
 .btn_activo{background-color:#ffbc00;box-shadow:1px 1px 2px rgba(60,60,60,0.5)}
 .submenu a link{color:#09f}
 .ayudaonline{width:100%;height:40px;margin:0;color:#fc3;padding:0;text-align:right;background-image:url("imagenes/ayudaonline.png");background-position:right;background-repeat:no-repeat;margin-right:20px;padding-right:50px}
-.lista{margin:20px auto;width:100%;padding:0}
+.lista{margin:20px auto;width:100%;padding:10px;text-align:center}
 .lista .img-list,.lista ol{padding:0;margin:0;display:inline-block;vertical-align:top}
-.lista .img-list{width:20%}
+.lista .img-list{width:15%}
 .lista .img-list img{width:100%;padding:0}
-.lista ol{width:78%;list-style:none;background-color:#fc3;border-radius:5px;border:2px solid #f90;padding:10px 0}
-.lista ol li{color:#f80012}
+.lista ol{width:75%;list-style:none;background-color:#fc3;border-radius:5px;border:2px solid #f90;padding:10px 0}
+.lista ol li{color:#f80012;text-align:left}
 .ubicacion{background-color:#f90;margin:0 auto;padding:0;width:948px}
 .ubicacion p{margin:auto;text-align:left}
 .uvideo{margin:10px auto;padding-top:10px;text-align:center;width:80%}

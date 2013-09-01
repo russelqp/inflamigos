@@ -20,7 +20,7 @@
 <p class="p3">Aparta tu brincolin con un 50% de anticipo a la brevedad, para asegurar la disponibilidad  del equipo. Nosotros te lo llevamos hasta el lugar del evento.</p>
 <p class="p4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contamos con 10 modelos diferentes, entre ellos: <a href="http://www.inflamigos.com.mx/inflable/castillo-aventura/" title="ver el castillo inflable">castillos inflables</a>, <a href="http://www.inflamigos.com.mx/inflable/aqualand/" title="ver aqualand">chapoteaderos</a>, <a href="http://www.inflamigos.com.mx/inflable/escaladora/" title="ver el inflable escaladora inflable">escaladora</a>, un <a href="http://www.inflamigos.com.mx/inflable/space-lab/" title="ver Inflable: SpaceLab">laboratorio espacial</a>, una <a href="http://www.inflamigos.com.mx/inflable/escaladrilo/" title="ver el inflable escaladrilo">resbaladilla</a> para la piscina y un interactivo <a href="http://www.inflamigos.com.mx/inflable/ultra-cubo/" title="ver el inflable ultra cubo">ultracubo</a>. </p>
 <div class="lista">
-<div class="img-list"><img src="http://www.inflamigos.com.mx/imagenes/punching-bag.png" title="alegria"/></div>
+<img src="http://www.inflamigos.com.mx/imagenes/punching-bag.png" title="alegria" class="img-list"/>
 <ol>
 <li>El alquiler es por todo el día.</li>
 <li>Nuestros precios son accesibles.</li>

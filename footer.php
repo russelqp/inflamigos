@@ -23,8 +23,7 @@
 <div class="validators">
   <br /><br />
 
- <a href="http://www.inflamigos.com.mx" title="Brincolines Inflamigos"><img src="http://www.inflamigos.com.mx/
- 	imagenes/mini_logo_inflamigos.png" alt="logo inflamigos miniatura"/></a>&nbsp;</a>&nbsp;<!--<a href="http://whos.amung.us/stats/7mmxlocfz631/"><img src="http://whos.amung.us/widget/7mmxlocfz631.png" width="81" height="29" title="Click to see how many people are online" alt="people online"/></a>--><a href="http://jigsaw.w3.org/css-validator/check/referer">
+ <a href="http://www.inflamigos.com.mx" title="Brincolines Inflamigos"><img src="http://www.inflamigos.com.mx/imagenes/mini_logo_inflamigos.png" alt="logo inflamigos miniatura"/></a>&nbsp;</a>&nbsp;<!--<a href="http://whos.amung.us/stats/7mmxlocfz631/"><img src="http://whos.amung.us/widget/7mmxlocfz631.png" width="81" height="29" title="Click to see how many people are online" alt="people online"/></a>--><a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="¡CSS Válido!" />

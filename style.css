@@ -83,7 +83,7 @@ header #info{display:inline-block;width:78%;text-align:center;margin:0 auto}
 header #logo img,header #inflabletop img{width:100%}
 header ol{list-style:none;text-decoration:none;padding:0;margin:0 auto}
 article,aside{display:inline-block}
-article{background-color:#ededed;border-bottom-right-radius:10px;border-top-right-radius:10px;border:1px solid #f60;color:#121212;margin:0 auto;padding:0;text-align:left;vertical-align:top;width:70%}
+article{background-color:#ededed;border-bottom-right-radius:10px;border-top-right-radius:10px;border:1px solid #f60;color:#121212;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:70%}
 aside{width:29%;margin:0 auto;text-align:center;padding:0;color:#fff}
 article .lista li p{width:75%;margin:5px auto;text-align:justify;padding:0;color:#39f}
 article p{font-size:1.1em;margin:15px auto;width:85%}
@@ -171,6 +171,7 @@ margin 0auto,.submenu ul{margin:0 auto;width:80%;padding:0}
 #mapadesitio{margin:0 auto;width:80%;padding:0}
 #mapadesitio li{color:#f60;float:none;font-size:1.2em;list-style:disc;margin-left:20px}
 #mapadesitio a,#mapadesitio a:link,#mapadesitio a:visited{text-decoration:underline}
+.fb-comments{width:100%;text-align:center;margin:0 auto}
 .fltrt,float right{margin-left:8px}
 .fltlft,float left{margin-right:8px}
 .clearfloat{clear:both}

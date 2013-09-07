@@ -2,14 +2,14 @@
 
 <?php
 /******************************************************************************/
-/*  Copyright (©) 2005 Crop Chile                                             */
+/*  Copyright (Â©) 2005 Crop Chile                                             */
 /*  EMail form Php                                                            */
 /*  info@crop.cl                                                              */
 /*                                                                            */
 /*  Este script es gratuito, proporcionado por:                               */
 /*  Crop Chile                                                                */
-/*  Estudio de diseño                                                         */
-/*  I + D En comunicación                                                     */
+/*  Estudio de diseÃ±o                                                         */
+/*  I + D En comunicaciÃ³n                                                     */
 /*  http://www.crop.cl                                                        */
 /*                                                                            */
 /* Modificado por : Faust -www.faustdesign.com.mx- Viernes 16/01/09
@@ -24,7 +24,8 @@ $Opinion = $_POST["opinion"];
 $boundary = md5(time().rand(1,100));
 $fecha = date("d-M-y H:i");
 $content='
-<html>
+<Â¡Doctype html>
+<meta charset="utf-8">
 <head>
 <title>Formulario de la web de Inflamigos</title>
 <style type="text/css">
@@ -37,11 +38,11 @@ $content='
 </style>
 </head>
 <body link="/* CCCCCC" vlink="/* FFFFFF" alink="/* CC0033">
-<table width="550" height="300" border="0" align="center" >
+<table width="600" height="300" border="0" align="center" >
     
 <tr > 
           <td width="100" height="20" align="left" valign="middle"  bgcolor="#CCCCCC"> 
-          <img src="http://www.inflamigos.com.mx/imagenes/logo.png" alt="logoinflamigos" alt="logo-inflamigos" width="100" height="112" align="middle"></td>
+          <img src="http://www.inflamigos.com.mx/email/img/logoinflamigos.png"alt="logo-inflamigos" width="120" height="134" align="middle"></td>
           <td width="450" height="20" colspan="2"><div align="center">Comentarios de la web inflamigos</div></td>
   </tr>
   <tr><td width="550" colspan="3" height="30" bordercolor="#FFFFFF">&nbsp;</td></tr>
@@ -114,7 +115,7 @@ $content='
        
 
   <tr>
-  <td width="550" colspan="3" bordercolor="#FFFFFF"><div align="right"><img src="http://www.inflamigos.com.mx/imagenes/inflamigos.jpg" alt="inflamigos" width="300" height="172">  </div></td>
+  <td width="550" colspan="3" bordercolor="#FFFFFF"><div align="right"><img src="http://www.inflamigos.com.mx/email/img/inflamigos.jpg" alt="inflamigos" width="300" height="172">  </div></td>
   </tr>
 </table>
 </body>
@@ -137,7 +138,7 @@ $mensaje = '
         <tr>
           <td width="198" height="83" >&nbsp;</td>
           
-          <td width="287" height="83"><img src="http://www.inflamigos.com.mx/imagenes/logo.png" alt="logo-inflamigos" width="100" height="112"></td>
+          <td width="287" height="83"><img src="http://www.inflamigos.com.mx/email/img/logoinflamigos.png" alt="logo-inflamigos" width="120" height="134"></td>
         </tr>
       </table> 
       <table width="550" height="228" border="0">
@@ -187,7 +188,7 @@ $cabeceras  = 'MIME-Version: 1.0' . "\r\n";
 $cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
 $cabeceras .= 'From: Inflamigos WebSite < buzon@inflamigos.com.mx >' . "\r\n";
 mail ("$Nombre < $Email >", "Su correo ha sido recibido",$mensaje,$cabeceras);
-echo '<Script>alert("¡Mensaje enviado, Gracias =D!")</Script>';
+echo '<Script>alert("Â¡Mensaje enviado, Gracias =D!")</Script>';
 echo "<meta content='0;url=http://www.inflamigos.com.mx/contacto.php' http-equiv='refresh'/>
 ";
 }

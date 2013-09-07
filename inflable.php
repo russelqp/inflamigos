@@ -46,8 +46,8 @@ if(!empty($Variables) && $_SERVER['REQUEST_METHOD']=='GET' && $_SESSION['Listo']
 //directorios, hará que no muestre adecuadamente los origenes de los recursos que 
 //llama su página web.
 $url1= "http://".$Server."/";
-$url2 = "http://127.1.0.0/InflamigosHTML5/";
-$_URL_BASE=$url2;
+$url2 = "http://127.1.0.0/Inflamigos/";
+$_URL_BASE=$url1;
  ?>
 <?php
 $inflable=$_GET['inflable'];
@@ -266,7 +266,7 @@ echo "</p>";
 
 if ($id_video!=""){ echo('<div class="uvideo"><iframe class="youtube-player" type="text/html" width="100%" height="50%" src="http://www.youtube.com/embed/'.$id_video.'" frameborder="0"></iframe></div>');}?>
 
-
+<div class="fb-comments" data-href="http://inflamigos.com.mx/inflable/<?php echo $inflable;?>/"></div>
 <br />
 <p>-------------------------------------------------------------------------------------</p>
 <!--Inicia menu_inflables_mini-->
@@ -276,7 +276,6 @@ if ($id_video!=""){ echo('<div class="uvideo"><iframe class="youtube-player" typ
     <li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=angry-box">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/angry_box.jpg"  alt="angry-box" title="Angry Box" /></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=castillo-aventura">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/caventura_thumb.png" alt="castillo_aventura_middle" title="Castillo Aventura"/></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=castillo-princess">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/cprincess_thumb.png" alt="castillo_princess_middle" title="Castillo Princess"/></a></li>
-    <!--<li><?php echo '<a href="inflable.php?inflable=escaladora">'; ?><img src="inflables/thumbs/escaladora_thumb.png" alt="escaladora_middle" title="ver la Escaladora"/></a></li>-->
     <li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=resbaladilla-bob-esponja">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/bobesponja_thumb.png" alt="bob-esponja-middle" title="Bob Esponja Resbaladilla" /></a></li>
   	<li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=arco-slide">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aslide_thumb.png" alt="arco_slide_middle" title="Arco Slide"/></a></li>
 	<li><?php echo '<a href="http://www.inflamigos.com.mx/inflable.php?inflable=ultra-cubo">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/ucubo_thumb.png" alt="ultra_cubo_middle" title="Ultra Cubo"/></a></li>

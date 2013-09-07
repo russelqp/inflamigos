@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="es">
-
-
 <?php
 flush();
 ?>
@@ -13,6 +11,8 @@ flush();
 <meta name="Description" content="<?php echo $descPage; ?>" />
 <meta name="Keywords" content="brincolines, inflables, renta, fiestas infantiles, entretenimiento infantil, riviera maya, playa del carmen, hoteles, eventos empresariales, castillos, publicidad, fiestas, diversión, entretenimiento, interactivo, renta de inflables, juegos inflables, renta de brincolines, niños." />
 <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<meta property='fb:admins' content='620370071347701O'/>
+<meta property='fb:app_id' content='478839412179968'/>
 <link href='http://fonts.googleapis.com/css?family=Noto+Sans|Wendy+One' rel='stylesheet' type='text/css'>
 <title><?php echo $titlePage; ?></title>
 
@@ -52,12 +52,13 @@ map.addMarker({
 </head>
 
 <body>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=478839412179968";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 

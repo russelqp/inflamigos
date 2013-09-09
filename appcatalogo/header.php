@@ -14,13 +14,9 @@ flush();
 <meta name="Keywords" content="brincolines, inflables, renta, fiestas infantiles, entretenimiento infantil, riviera maya, playa del carmen, hoteles, eventos empresariales, castillos, publicidad, fiestas, diversión, entretenimiento, interactivo, renta de inflables, juegos inflables, renta de brincolines, niños." />
 <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 <link href='http://fonts.googleapis.com/css?family=Noto+Sans|Wendy+One' rel='stylesheet' type='text/css'>
+<meta property='fb:admins' content='620370071347701O'/>
+<meta property='fb:app_id' content='478839412179968'/>
 <title><?php echo $titlePage; ?></title>
-
-<?php if (isset($_URL_BASE)){
-	echo '<base href="'.$_URL_BASE.'" />';
-	}
-?>
-
 
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script src="prefixfree.min.js"></script>
@@ -28,12 +24,19 @@ flush();
 </head>
 
 <body>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=478839412179968";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div id="container">
 <!--<div class="ayudaonline"><a href="#">Ayuda en Linea</a></div>-->
 <header>
        <div id="logo">
-        <a href="http://www.inflamigos.com.mx/index.php"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
+        <a href="http://www.inflamigos.com.mx/appcatalogo/index.php"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
        </div>
        <div id="info"><h1>Inflamigos</h1>
          <h2>Renta de brincolines inflables</h2>

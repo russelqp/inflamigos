@@ -43,7 +43,7 @@ img{border:0}
 h1,h2,h3,h4,h5,h6{margin:0 auto;font-family:'Wendy One',sans-serif;text-shadow:1px 1px 1px rgba(60,60,60,0.5);text-align:center;font-weight:60}
 h1{color:#fc3;font-size:3em;text-align:center}
 h2{text-align:center}
-h3{font-size:1.4em;color:#fff;width:100%;display:block;background-color:#ff4900;padding:5px}
+h3{font-size:1.4em;color:#fff;width:95%;display:block;background-color:#ff4900;padding:5px}
 h4{color:#333;font-size:1em}
 h5{font-size:.8em;text-align:center;color:#666}
 h6{font-size:1em}
@@ -80,6 +80,18 @@ figure:hover{transform:scale(1.08)}
 .fltrt,float right{margin-left:8px}
 .fltlft,float left{margin-right:8px}
 .clearfloat{clear:both}
+.lista-imagenes{display:inline-block;vertical-align:top;width:60%;padding:2%;text-align:center;margin:0 auto}
+.lista-imagenes h4{text-align:left;margin:10px auto}
+.lista-imagenes ul{padding:0;margin:0;text-align:left}
+.lista-imagenes li{display:inline-block;list-style-type:none;margin:2px;transition:all .8s ease;width:30%}
+.lista-imagenes li img{width:100%;padding:0;box-shadow:3px 3px 2px rgba(46,49,50,0.3);border:1px solid #d30;border-radius:5px}
+.lista-imagenes li:hover{transform:scale(1.08)}
+.datos{display:inline-block;vertical-align:top;width:30%;padding:2%}
+.menu_inflables_mini{margin:0 auto;padding:2%;width:96%;background-color:#ffb600;border-radius:5px;border-bottom-left-radius:0;border-bottom-right-radius:10px}
+.menu_inflables_mini li{list-style:none;margin:0 1px;padding:0;text-decoration:none;width:15%;display:inline-block;text-align:center}
+.menu_inflables_mini li img{width:100%;padding:0;margin:1px;border:1px dotted #fff}
+.menu_inflables_mini li img:hover{opacity:.7}
+.uvideo{margin:10px auto;padding-top:10px;text-align:center;width:80%}
 @media screen and (max-width:945px){nav ul li{width:15%}
 }@media screen and (max-width:800px){.p2,.p3{display:none}
 .menu_inflables figure{width:38%}

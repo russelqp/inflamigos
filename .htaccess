@@ -1,16 +1,20 @@
 Options +FollowSymLinks
 RewriteEngine on
 
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^inflable/(.*)/$ inflable.php?inflable=$1
+</IfModule>
 
 #1 variable
-RewriteRule ^inflable/(.*)/$ inflable.php?inflable=$1
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d 
 RewriteRule ^(.*)$ $1.php [L,QSA]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
-RewriteRule ^index\.html$ http://inflamigos.com.mx/ [R=301,L]
+RewriteRule ^index\.html$ http://www.inflamigos.com.mx/[R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
-RewriteRule ^index\.php$ http://inflamigos.com.mx/ [R=301,L] 
+RewriteRule ^index\.php$ http://www.inflamigos.com.mx/ [R=301,L] 
 
 <IfModule mod_expires.c>
 <filesmatch "\.(jpg|JPG|gif|GIF|png|PNG|css|js)$">

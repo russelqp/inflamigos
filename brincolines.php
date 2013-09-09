@@ -24,6 +24,7 @@
 			 				<figcaption>Con un estilo moderno, y recomendado para los más peques.</figcaption>	
 
 			 				<h5>$700.00</h5>
+			 				<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/angry-box/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 			 				<a href="http://www.inflamigos.com.mx/inflable.php?inflable=angry-box" class="btn_ir" title="ver imagenes de: Angry Box">Mas detalles</a>
 			 			</figure>
 			 			<figure class="fondoli-griz">
@@ -34,6 +35,7 @@
 			 				<figcaption>El clásico y popular, para toda ocasión.</figcaption>
 
 			 				<h5>$600.00</h5>
+			 				<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/castillo-aventura/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 			 				<a href="http://www.inflamigos.com.mx/inflable.php?inflable=castillo-aventura" title="ver imagenes de: Castillo Aventura">Mas detalles</a>
 			 			</figure>
 			 			<figure class="fondoli-griz">
@@ -44,6 +46,7 @@
 				 			<figcaption>Para consentir a las princesitas del hogar.</figcaption>
 
 				 			<h5>$600.00</h5>
+				 			<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/castillo-princess/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 				 			<a href="http://www.inflamigos.com.mx/inflable.php?inflable=castillo-princess" title="ver imagenes de: Castillo Princess">Mas detalles</a>
 			 			</figure>
 						<figure class="fondoli-griz">
@@ -54,7 +57,8 @@
 						 	<figcaption>Especial para la alberca y espacios pequeños.</figcaption>
 
 						 	<h5>$600.00</h5>
-						 	<a href="http://www.inflamigos.com.mx/inflable.php?inflable=escaladrilo" title="ver imagenes de: Escaladrilo">Mas detalles</a>
+						 	<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/escaladrilo/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
+			 				<a href="http://www.inflamigos.com.mx/inflable.php?inflable=escaladrilo" title="ver imagenes de: Escaladrilo">Mas detalles</a>
 						</figure>
 						<figure class="fondoli-griz">
 							<img src="http://www.inflamigos.com.mx/inflables/bob-esponja-middle.jpg" alt="Bob-Esponja-Resbaladilla-middle"/>
@@ -64,6 +68,7 @@
 							<figcaption>Atractivos y alegres colores que daran vida a tus fiestas.</figcaption>
 
 							<h5>$1,000.00</h5>
+							<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/resbaladilla-bob-esponja/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 							<a href="http://www.inflamigos.com.mx/inflable.php?inflable=resbaladilla-bob-esponja" title="ver imagenes de: Resbaladilla Bob Esponja">Mas detalles</a>
 						</figure>
 						<figure class="fondoli-griz">
@@ -74,16 +79,18 @@
 							<figcaption>El gran interactivo inflamigo, acompañado con rótulos de Yoshi y Mario.</figcaption>
 
 							<h5>$1,200.00</h5>
+							<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/ultra-cubo/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 							<a href="http://www.inflamigos.com.mx/inflable.php?inflable=ultra-cubo" title="ver imagenes de: Ultra Cubo">Mas detalles</a>
 						</figure>
 						<figure class="fondoli-griz">
 							<img src="http://www.inflamigos.com.mx/inflables/aslide_middle.jpg" alt="arco_slide_middle" /> 
 							<h4>Arco Slide<br />(7 x 5) </h4>
 
-
+							
 							<figcaption>Colócalo junto a tu alberca y prepárense para la diversión.</figcaption>
 
 							<h5>$1,200.00</h5>
+							<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/arco-slide/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 							<a href="http://www.inflamigos.com.mx/inflable.php?inflable=arco-slide" title="ver imagenes de: Arco Slide">Mas detalles</a>
 						</figure>
 						<figure class="fondoli-griz">
@@ -94,6 +101,7 @@
 							 <figcaption>El laboratorio espacial invadido por aliens.</figcaption>
 
 							<h5>$1,500.00</h5>
+							<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/space-lab/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 							<a href="http://www.inflamigos.com.mx/inflable.php?inflable=space-lab" title="ver imagenes de: Space Lab">Mas detalles</a>
 						</figure>
 						<br />
@@ -106,7 +114,8 @@
 							<figcaption>Un inflable muy completo, resbaladilla, área para brincar y chapoteadero.</figcaption>
 
 
-						 	<h5>$1,300.00</h5>
+						 	<h5>$1,200.00</h5>
+						 	<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/aqualand/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 						 	<a href="http://www.inflamigos.com.mx/inflable.php?inflable=aqualand" title="ver imagenes de: Aqualand">Mas detalles</a>
 						</figure>
 						<figure class="fondoli-griz">
@@ -118,6 +127,7 @@
 
 
 							<h5>$1,800.00</h5>
+							<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/splash-pool/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 							<a href="http://www.inflamigos.com.mx/inflable.php?inflable=splash-pool" title="ver imagenes de: Splash Pool">Mas detalles</a>
 						</figure>
 						<br><p>Nota: Si el evento es fuera de Playa del Carmen, nos vemos en la necesidad de solicitar un cargo extra, por el consumo de combustible debido al trayecto.<p>

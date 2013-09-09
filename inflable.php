@@ -46,7 +46,7 @@ if(!empty($Variables) && $_SERVER['REQUEST_METHOD']=='GET' && $_SESSION['Listo']
 //directorios, hará que no muestre adecuadamente los origenes de los recursos que 
 //llama su página web.
 $url1= "http://".$Server."/";
-$url2 = "http://127.1.0.0/Inflamigos/";
+$url2 = "http://127.1.0.0/inflamigos/";
 $_URL_BASE=$url1;
  ?>
 <?php
@@ -244,7 +244,7 @@ $descPage= $miniDesc;
 <?php
 echo "<p>";
 echo '<g:plusone href="http://www.inflamigos.com.mx/inflable/'.$inflable.'/"></g:plusone>';
-echo '<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.inflamigos.com.mx%2Finflable%2F'.$inflable.'%2F&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe>';
+echo '<div class="fb-like" data-href="http://www.inflamigos.com.mx/inflable/'.$inflable.'/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>';
 echo "<br />";
 echo "Ancho: ".$ancho." m";
 echo "<br />";
@@ -266,7 +266,7 @@ echo "</p>";
 
 if ($id_video!=""){ echo('<div class="uvideo"><iframe class="youtube-player" type="text/html" width="100%" height="50%" src="http://www.youtube.com/embed/'.$id_video.'" frameborder="0"></iframe></div>');}?>
 
-<div class="fb-comments" data-href="http://inflamigos.com.mx/inflable/<?php echo $inflable;?>/"></div>
+<div class="fb-comments" data-href="www.inflamigos.com.mx/inflable/<?php echo $inflable;?>/"></div>
 <br />
 <p>-------------------------------------------------------------------------------------</p>
 <!--Inicia menu_inflables_mini-->

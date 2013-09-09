@@ -1,7 +1,7 @@
-<?php
+<?php 
 /***
 Archivo descargado de http://willy.tiperu.com/
-***/
+*/
 //Iniciamos o continuamos la sesión encargada de evitar el bucle infinito
 session_name("url_amigable");
 session_start();
@@ -45,5 +45,7 @@ if(!empty($Variables) && $_SERVER['REQUEST_METHOD']=='GET' && $_SESSION['Listo']
 //Cambie $_URL_BASE por la ruta raiz de su web, ya que al simular la url amigable
 //directorios, hará que no muestre adecuadamente los origenes de los recursos que 
 //llama su página web.
-$_URL_BASE="http://".$Server."/Inflamigos_4";
-?>
+$url1= "http://".$Server."/";
+$url2 = "http://127.1.0.0/inflamigos/";
+$_URL_BASE=$url1;
+ ?>

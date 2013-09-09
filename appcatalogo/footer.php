@@ -2,8 +2,8 @@
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
   {lang: 'es'}
 </script>
-<script src="js/jquery-min.js"></script>
-<script src="js/lightbox.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="js/lightbox.min.js"></script>
 <footer>
 
 <div class="credits">

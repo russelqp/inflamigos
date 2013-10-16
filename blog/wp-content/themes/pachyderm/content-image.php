@@ -50,6 +50,7 @@
 				<?php echo $tags_list; ?>
 			</span>
 			<?php endif; // End if $tags_list ?>
+			
 			<?php edit_post_link( __( 'Edit', 'pachyderm' ), '<span class="edit-link">', '</span>' ); ?>
 		<?php endif; // End if 'post' == get_post_type() ?>
 

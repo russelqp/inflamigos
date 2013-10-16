@@ -38,7 +38,7 @@
 		<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'pachyderm' ), 'after' => '</div>' ) ); ?>
 	</div><!-- .entry-content -->
 	<?php endif; ?>
-
+	
 	<footer class="entry-meta">
 		<?php if ( 'post' == get_post_type() ) : // Hide category and tag text for pages on Search ?>
 			<?php
@@ -60,6 +60,9 @@
 				<?php echo $tags_list; ?>
 			</span>
 			<?php endif; // End if $tags_list ?>
+			
+			<div class="fb-comments" data-href="<?php the_permalink(); ?>"></div>
+
 		<?php endif; // End if 'post' == get_post_type() ?>
 
 	</footer><!-- .entry-meta -->

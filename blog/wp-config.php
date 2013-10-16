@@ -19,13 +19,13 @@
 define('DB_NAME', 'u204750119_blog');
 
 /** MySQL database username */
-define('DB_USER', 'u204750119_cubit');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'sadness666');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.hostinger.mx');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

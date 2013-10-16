@@ -3,18 +3,18 @@
   {lang: 'es'}
 </script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="js/lightbox.min.js"></script>
+<script src="http://www.inflamigos.com.mx/js/lightbox.min.js"></script>
 <footer>
 
 <div class="submenu">
 	<ul>
-		<li  class="nb-left"><a href="http://www.inflamigos.com.mx/index.php">Inicio</a></li>
-		<li><a href="http://www.inflamigos.com.mx/brincolines.php">Inflables</a></li>
-		<li><a href="http://www.inflamigos.com.mx/acercade.php">Acerca de</a></li>
-		<li><a href="http://www.inflamigos.com.mx/faq.php">Faq</a></li>
-		<li><a href="http://www.inflamigos.com.mx/contacto.php">Contacto</a></li>
-		<li><a href="http://www.inflamigos.com.mx/enlaces.php">Enlaces</a></li>
-		<li class="nb-right"><a href="http://www.inflamigos.com.mx/mapa_de_sitio.php">Mapa de sitio</a></li>
+		<li  class="nb-left"><a href="http://www.inflamigos.com.mx/">Inicio</a></li>
+		<li><a href="http://www.inflamigos.com.mx/brincolines/">Inflables</a></li>
+		<li><a href="http://www.inflamigos.com.mx/acercade/">Acerca de</a></li>
+		<li><a href="http://www.inflamigos.com.mx/faq/">Faq</a></li>
+		<li><a href="http://www.inflamigos.com.mx/contacto/">Contacto</a></li>
+		<li><a href="http://www.inflamigos.com.mx/enlaces/">Enlaces</a></li>
+		<li class="nb-right"><a href="http://www.inflamigos.com.mx/mapa_de_sitio/">Mapa de sitio</a></li>
 	</ul>
 </div>
 

@@ -14,7 +14,7 @@ flush();
 <meta name="Keywords" content="brincolines, inflables, renta, fiestas infantiles, entretenimiento infantil, riviera maya, playa del carmen, hoteles, eventos empresariales, castillos, publicidad, fiestas, diversión, entretenimiento, interactivo, renta de inflables, juegos inflables, renta de brincolines, niños." />
 <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 <link href='http://fonts.googleapis.com/css?family=Noto+Sans|Wendy+One' rel='stylesheet' type='text/css'>
-<meta property='fb:admins' content='620370071347701O'/>
+<meta property='fb:admins' content='10201104361225237'/>
 <meta property='fb:app_id' content='478839412179968'/>
 <title><?php echo $titlePage; ?></title>
 

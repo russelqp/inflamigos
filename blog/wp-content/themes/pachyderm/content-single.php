@@ -46,5 +46,6 @@
 			<?php echo $tags_list; ?>
 		</span>
 		<?php endif; // End if $tags_list ?>
+		<div class="fb-comments" data-href="<?php the_permalink(); ?>"></div>
 	</footer><!-- .entry-meta -->
 </article><!-- #post-## -->

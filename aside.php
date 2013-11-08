@@ -9,7 +9,7 @@
                      </ul>
 </div>
 <div class="boletin">
-	<form action="https://tinyletter.com/inflamgos-boletin" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/inflamgos-boletin', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Boletín de promociones</label></p><p><input type="text" name="email" id="tlemail" placeholder="e-mail"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Suscribir" name="Suscribete"class="btn-bol"/></form>
+	<form action="https://tinyletter.com/inflamgos-boletin" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/inflamgos-boletin', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Boletín de promociones</label></p><p><input type="text" name="email" id="tlemail" placeholder="e-mail"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Suscribir" name="Suscribete" class="btn-bol"/></form>
 </div>
 <br />
 <br />

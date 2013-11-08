@@ -6,7 +6,7 @@ flush();
 <head>
 <meta charset="utf-8">
 
-<link href="favicon.ico" rel="icon" type="image/x-icon" />
+<link href="http://www.inflamigos.com.mx/favicon.ico" rel="icon" type="image/x-icon" />
 <meta name="verify-v1" content="/dBtizkBC816xdpFj5usuzYV1icSO40rK16qYBZpRa4=" />
 <meta name="Description" content="<?php echo $descPage; ?>" />
 <meta name="Keywords" content="brincolines, inflables, renta, fiestas infantiles, entretenimiento infantil, riviera maya, playa del carmen, hoteles, eventos empresariales, castillos, publicidad, fiestas, diversión, entretenimiento, interactivo, renta de inflables, juegos inflables, renta de brincolines, niños." />

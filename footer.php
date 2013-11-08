@@ -1,6 +1,6 @@
 <!-- end #container --></div>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-  {lang: 'es'}
+  {lang: 'es';}
 </script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://www.inflamigos.com.mx/js/lightbox.min.js"></script>
@@ -19,11 +19,11 @@
 </div>
 
 <div class="credits">
- <p>www.inflamigos.com.mx v4.0 &copy; 2008 - 2013   | SEO, Design &amp; Developed by <a href="http://www.russelquiam.mx" title="Web del autor">Russtin</a>
+ www.inflamigos.com.mx v4.0 &copy; 2008 - 2013   | SEO, Design &amp; Developed by <a href="http://www.russelquiam.mx" title="Web del autor">Russtin</a>
 <div class="validators">
   <br /><br />
 
- <a href="http://www.inflamigos.com.mx" title="Brincolines Inflamigos"><img src="http://www.inflamigos.com.mx/imagenes/mini_logo_inflamigos.png" alt="logo inflamigos miniatura"/></a>&nbsp;</a>&nbsp;<!--<a href="http://whos.amung.us/stats/7mmxlocfz631/"><img src="http://whos.amung.us/widget/7mmxlocfz631.png" width="81" height="29" title="Click to see how many people are online" alt="people online"/></a>--><a href="http://jigsaw.w3.org/css-validator/check/referer">
+ <a href="http://www.inflamigos.com.mx" title="Brincolines Inflamigos"><img src="http://www.inflamigos.com.mx/imagenes/mini_logo_inflamigos.png" alt="logo inflamigos miniatura"/></a>&nbsp;<!--<a href="http://whos.amung.us/stats/7mmxlocfz631/"><img src="http://whos.amung.us/widget/7mmxlocfz631.png" width="81" height="29" title="Click to see how many people are online" alt="people online"/></a>--><a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="¡CSS Válido!" />
@@ -31,7 +31,7 @@
         alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
         <br />
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
-</p>
+
 </div>
 </div>
 

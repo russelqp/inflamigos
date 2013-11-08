@@ -1,4 +1,4 @@
- <?php 
+﻿ <?php 
  $titlePage="Contacto - Inflamigos";
  $descPage="¡Contáctanos!, en brincolines inflamigos, estamos al pendiente de tus comentarios o sugerencias acerca de nuestros servicios de renta de inflables";
  $btn_activo="contacto";
@@ -23,7 +23,7 @@
     <br />
     <br />
 			
-  <form method="post" action="email/sendmail.php">
+  <form method="post" action="../email/sendmail.php">
 			
 				  <p>Nombre: <br /><input type="text" name="nombre" class="nombre" /></p>
 				  <p>Tel&eacute;fono: <br /><input type="text" name="telefono" class="telefono" /></p>

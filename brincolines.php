@@ -60,6 +60,19 @@
 						 	<div class="fb-like" data-href="http://www.inflamigos.com.mx/brincolines/escaladrilo/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 			 				<a href="http://www.inflamigos.com.mx/brincolines/escaladrilo/" title="ver imagenes de: Escaladrilo">Mas detalles</a>
 						</figure>
+
+						<figure class="fondoli-griz">
+						 	<img src="http://www.inflamigos.com.mx/inflables/aventura-palmeras-middle.jpg" alt="Aventura-palmeras-middle"/>
+						 	<h4>Aventura Palmeras<br />(6 x 3)</h4>
+
+
+						 	<figcaption>Agregale más diversión a tu alberca</figcaption>
+
+						 	<h5>$600.00</h5>
+						 	<div class="fb-like" data-href="http://www.inflamigos.com.mx/brincolines/aventura-palmeras/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
+			 				<a href="http://www.inflamigos.com.mx/brincolines/aventura-palmeras/" title="ver imagenes de: Aventura Palmeras">Mas detalles</a>
+						</figure>
+
 						<figure class="fondoli-griz">
 							<img src="http://www.inflamigos.com.mx/inflables/bob-esponja-middle.jpg" alt="Bob-Esponja-Resbaladilla-middle"/>
 							<h4>Bob Esponja<br />(7 x 4)</h4>
@@ -136,9 +149,9 @@
 					<h4>También puedes descargar nuestro cat&aacute;logo:</h4>
 					<br />
 					<p> 
-						Versión Word: <a href="http://www.inflamigos.com.mx/downloads/catalogo_inflamigos_2013.doc" title="Descarga el catálogo versión .doc"><img src="imagenes/doc.png" width="45" height="47" alt="ico-word-download" /></a>
+						Versión Word: <a href="http://www.inflamigos.com.mx/downloads/catalogo_inflamigos_2013.doc" title="Descarga el catálogo versión .doc"><img src="http://www.inflamigos.com.mx/imagenes/doc.png" width="45" height="47" alt="ico-word-download" /></a>
 						<br />
-						Versión PDF: <a href="http://www.inflamigos.com.mx/downloads/catalogo_inflamigos_2013.pdf" title="Descarga el catálogo versión .pdf"><img src="imagenes/pdf.png" width="45" height="47" alt="ico-pdf-download" /></a>
+						Versión PDF: <a href="http://www.inflamigos.com.mx/downloads/catalogo_inflamigos_2013.pdf" title="Descarga el catálogo versión .pdf"><img src="http://www.inflamigos.com.mx/imagenes/pdf.png" width="45" height="47" alt="ico-pdf-download" /></a>
 					</p>
 
 				<div class="lista">

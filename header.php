@@ -17,6 +17,7 @@ flush();
 <title><?php echo $titlePage; ?></title>
 
 <link href="http://www.inflamigos.com.mx/style.css" rel="stylesheet" type="text/css" />
+<link href="http://www.inflamigos.com.mx/gradientbg.css" rel="stylesheet" type="text/css" />
 <script src="http://www.inflamigos.com.mx/prefixfree.min.js"></script>
 <link href="http://www.inflamigos.com.mx/css/lightbox.css" rel="stylesheet" />
 <!--<script type="text/javascript" src="gmaps-master/gmaps.js"></script>
@@ -63,8 +64,8 @@ map.addMarker({
         <a href="http://www.inflamigos.com.mx/"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
        </div>
        <div id="info"><h1>Inflamigos</h1>
-         <h2>Renta de brincolines inflables</h2>
-         <p>En Playa del Carmen y toda la Riviera Maya | <strong class="icon-phone"> 9841416137</strong></p>
+         <h2>Renta de brincolines en Playa del Carmen</h2>
+         <p>Y toda la Riviera Maya | <strong class="icon-phone"> 9841416137</strong></p>
        </div>
        <div id="inflabletop">
         <?php

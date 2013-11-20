@@ -63,7 +63,7 @@ figure a:hover{background-color:#fb0;color:#fff}
 figure img{width:100%;padding:0;margin:0;border-radius:5px}
 figure:hover{transform:scale(1.08)}
 *{margin:0;padding:0}
-body{background-color:#cef;background-image:url("imagenes/bg.png");background-repeat:repeat-x;color:#fff;font-family:'Noto Sans',sans-serif;font-size:16px;margin:0 auto;padding:0}
+body{background-color:#cef;background-repeat:repeat-x;color:#fff;font-family:'Noto Sans',sans-serif;font-size:16px;margin:0 auto;padding:0}
 img{border:0}
 h1,h2,h3,h4,h5,h6{margin:0 auto;font-family:'Wendy One',sans-serif;text-shadow:1px 1px 1px rgba(60,60,60,0.5);text-align:left}
 h1{color:#fc3;font-size:3em;text-align:center}
@@ -74,8 +74,9 @@ h5{font-size:1.2em;text-align:center}
 h6{font-size:1em}
 a{text-decoration:none}
 section,article,aside,nav,.lista,.lista img,.lista ol,.lista li,.boletin,.boletin p,.menu_inflables ul li,.menu_inflables imghover,.lista-imagenes ul,.lista-imagenes li,#ubicacion{box-sizing:border-box;margin:2px auto;list-style-position:inside;list-style-type:disc;color:#f30;padding:0 10px}
+section{margin-top:0}
 h3 img{float:right;padding-right:20px}
-header{display:block;margin:5px auto;width:100%;padding:5px 0;text-align:center}
+header{display:block;margin:0 auto;width:100%;padding:0;text-align:center}
 header p{width:80%}
 header #logo{border:0;display:inline-block;width:10%}
 header #inflabletop{border:0;display:inline-block;width:10%}

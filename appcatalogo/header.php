@@ -36,7 +36,7 @@ flush();
 <!--<div class="ayudaonline"><a href="#">Ayuda en Linea</a></div>-->
 <header>
        <div id="logo">
-        <a href="http://www.inflamigos.com.mx/appcatalogo/index.php"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
+        <a href="https://apps.facebook.com/inflamigos/"><img src="http://www.inflamigos.com.mx/imagenes/logoinflamigos.png" alt="logo_inflamigos" title="ir al home"/></a>
        </div>
        <div id="info"><h1>Inflamigos</h1>
          <h2>Renta de brincolines inflables</h2>

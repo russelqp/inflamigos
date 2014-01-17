@@ -222,16 +222,16 @@ if ($id_video!=""){ echo('<div class="uvideo"><iframe class="youtube-player" typ
 <div class="menu_inflables_mini">
 <h4>Ver los otros inflables</h4>
     <ul>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=angry-box">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/angry_box.jpg"  alt="angry-box" title="Angry Box" /></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=castillo-aventura">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/caventura_thumb.png" alt="castillo_aventura_middle" title="Castillo Aventura"/></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=castillo-princess">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/cprincess_thumb.png" alt="castillo_princess_middle" title="Castillo Princess"/></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=resbaladilla-bob-esponja">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/bobesponja_thumb.png" alt="bob-esponja-middle" title="Bob Esponja Resbaladilla" /></a></li>
-  	<li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=arco-slide">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aslide_thumb.png" alt="arco_slide_middle" title="Arco Slide"/></a></li>
-	<li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=ultra-cubo">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/ucubo_thumb.png" alt="ultra_cubo_middle" title="Ultra Cubo"/></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=space-lab">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/spacelab_thumb.png" alt="space-lab-middle" title="Space Lab" /></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=escaladrilo">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/escaladrilo_thumb.png" alt="escaladrilo-middle" title="Escaladrilo" /></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=aqualand">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aqualand_thumb.png" alt="aqualand-middle" title="Aqualand" /></a></li>
-    <li><?php echo '<a href="http://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=splash-pool">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/splashpool_thumb.png" alt="splash-pool-middle" title="Splash Pool" /></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=angry-box">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/angry_box.jpg"  alt="angry-box" title="Angry Box" /></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=castillo-aventura">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/caventura_thumb.png" alt="castillo_aventura_middle" title="Castillo Aventura"/></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=castillo-princess">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/cprincess_thumb.png" alt="castillo_princess_middle" title="Castillo Princess"/></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=resbaladilla-bob-esponja">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/bobesponja_thumb.png" alt="bob-esponja-middle" title="Bob Esponja Resbaladilla" /></a></li>
+  	<li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=arco-slide">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aslide_thumb.png" alt="arco_slide_middle" title="Arco Slide"/></a></li>
+	<li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=ultra-cubo">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/ucubo_thumb.png" alt="ultra_cubo_middle" title="Ultra Cubo"/></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=space-lab">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/spacelab_thumb.png" alt="space-lab-middle" title="Space Lab" /></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=escaladrilo">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/escaladrilo_thumb.png" alt="escaladrilo-middle" title="Escaladrilo" /></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=aqualand">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aqualand_thumb.png" alt="aqualand-middle" title="Aqualand" /></a></li>
+    <li><?php echo '<a href="https://www.inflamigos.com.mx/appcatalogo/inflable.php?inflable=splash-pool">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/splashpool_thumb.png" alt="splash-pool-middle" title="Splash Pool" /></a></li>
     </ul>
   </div><!--End menu_inflables_mini--> 
 

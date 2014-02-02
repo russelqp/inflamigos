@@ -68,7 +68,7 @@
 
 						 	<figcaption>Agregale más diversión a tu alberca</figcaption>
 
-						 	<h5>$600.00</h5>
+						 	<h5>$700.00</h5>
 						 	<div class="fb-like" data-href="http://www.inflamigos.com.mx/brincolines/escaladora/" data-width="450" data-layout="button_count" data-show-faces="true" data-send="true"></div>
 			 				<a href="http://www.inflamigos.com.mx/brincolines/escaladora/" title="ver imagenes de: Nueva escaladora">Mas detalles</a>
 						</figure>

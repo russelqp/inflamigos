@@ -1,6 +1,8 @@
  <?php 
+ $mySql_connect = "data/data.php";
  $titlePage="Acerca de - Inflamigos";
  $descPage="Acerca de brincolines inflamigos, cuando nace, en donde estamos, y nuestros servicios de renta de inflables para niños.";
+ $btn_activo ="azul";
  ?>
  <?php include('header.php');?>
  

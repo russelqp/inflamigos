@@ -272,18 +272,26 @@ $url = $inflable;
 <!--Inicia lista-imagenes-->
 <div class="lista-imagenes">
 <?php
-   $ext=".jpg";
-   $ruta="inflables/thumbs/".$brincolin."/";
-   $ruta2="http://www.inflamigos.com.mx/inflables/g/".$brincolin."/";
-   $total_imagenes =count(glob($ruta."*_thumb*"));
-   $array_nombres = $total_imagenes;
-   $arr_ext=array("jpg","png","gif");
-   $mydir=opendir($ruta);
-   echo "<h4>Imagenes:</h4><ul>" ; 
-   for ($i=1; $i<=$total_imagenes;$i++){
-   echo '<li><a href="'.$ruta2."brincolin_inflable_".$brincolin."_0".$i.$ext.'" rel="lightbox[roadtrip]" title="'.$titulo.'"><img src="../../'.$ruta.$brincolin."_thumb_0".$i.$ext.'" alt="'.$brincolin."_thumb".'" /></a></li>';
 
-}
+   
+
+   $ruta="inflables/thumbs/".$brincolin."/";
+   $ruta2="http://www.inflamigos.com.mx/inflables/g/".$brincolin."/brincolin_inflable_";
+   $images = glob($ruta . "*");
+   echo "<h4>Imagenes:</h4><ul>" ; 
+ 
+	  foreach($images as $image)
+	 { 
+	 	  
+	 	
+	 	$ext = ".jpg";/*pathinfo( $ruta2, PATHINFO_EXTENSION );*/
+	 	$name = pathinfo( $image, PATHINFO_FILENAME );
+	    $name = explode("thumb_",$name);
+	  
+	    echo '<li><a href="'.$ruta2.$name[0].$name[1].$ext.'" rel="lightbox[roadtrip]" title="'.$titulo.'"><img src="http://www.inflamigos.com.mx/'.$image.'" alt="'.$brincolin."_thumb".'" /></a></li>';
+		
+	}
+
 	echo "</ul>";
 ?>
 </div>
@@ -328,6 +336,7 @@ if ($id_video!=""){ echo('<div class="uvideo"><iframe class="youtube-player" typ
 	<li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/ultra-cubo/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/ucubo_thumb.png" alt="ultra_cubo_middle" title="Ultra Cubo"/></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/space-lab/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/spacelab_thumb.png" alt="space-lab-middle" title="Space Lab" /></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/escaladrilo/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/escaladrilo_thumb.png" alt="escaladrilo-middle" title="Escaladrilo" /></a></li>
+    <li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/escaladora/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/escaladora_thumb.png" alt="escaladora_middle" title="ver la Escaladora"/></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/aqualand/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/aqualand_thumb.png" alt="aqualand-middle" title="Aqualand" /></a></li>
     <li><?php echo '<a href="http://www.inflamigos.com.mx/brincolines/splash-pool/">'; ?><img src="http://www.inflamigos.com.mx/inflables/thumbs/splashpool_thumb.png" alt="splash-pool-middle" title="Splash Pool" /></a></li>
     </ul>
